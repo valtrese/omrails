@@ -1,0 +1,3 @@
+# OM Rails
+
+Sample application
